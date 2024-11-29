@@ -1,5 +1,5 @@
 # Reto_4
-Archivo clase de programación de computadores_2024-2_grupo 5_Universidad Nacional de Colombia 
+
 Reto 4
 Resolver los siguientes problemas usando un notebook de python y subirlos a un repo.
 
